@@ -51,3 +51,4 @@ yarn dev
 - vite: 6.1.0
 - @fortawesome/react-fontawesom: 0.2.2
 - @fortawesome/free-solid-svg-icons: 6.7.2
+# react-todo1
